@@ -3,7 +3,7 @@
 This project implements a Convolutional Neural Network (CNN) to detect brain tumors from MRI images.
 
 ## Files
-- Brain_Tumor_Detection.ipynb – Model training and evaluation notebook
+- Brain_Tumor_Detection_Using_CNN.ipynb – Model training and evaluation notebook
 
 ## Tech Stack
 - Python
